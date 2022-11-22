@@ -13,4 +13,4 @@ What this bot can do
 - utilities!
 - And more to come soon!
 
-[Temporary Website here!](https://kigu-discordservers.my.canva.site/#page-2)
+[Learn More about FurDevs](https://kigu-discordservers.my.canva.site/#page-2)
