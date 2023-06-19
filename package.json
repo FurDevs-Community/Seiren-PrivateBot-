@@ -4,7 +4,7 @@
     "@replit/database": "^2.0.3",
     "canvas": "^2.11.2",
     "discord.js": "^14.9.0",
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.3.1",
     "fs": "^0.0.1-security",
     "moment": "^2.29.4",
     "ms": "^2.1.3"
